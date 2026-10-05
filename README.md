@@ -4,4 +4,4 @@ https://archive.org/details/stone-age-2
 
 Run this command to launch Stone Age 2 and connect to the local server: ``"<path_to_sa2_exe>\StoneAge2_Patched_V3.exe" -a 127.0.0.1:13173:Local``
 
-You can overwrite files like namelist.bin, sa2gui_bin, and gui_text.tsv from the german (or english) version over the chinese files. You should be able to find the english version via a web search.
+You can overwrite files like namelist.bin, sa2gui_bin, and gui_text.tsv from the german (or english) version over the chinese files. You should be able to find the english version via a search machine.
