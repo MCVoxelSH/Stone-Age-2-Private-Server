@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.20)
+project(sa2_probe_server LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+add_executable(sa2_probe_server sa2_probe_server.cpp)
+if (WIN32)
+    target_link_libraries(sa2_probe_server PRIVATE ws2_32 shell32)
+endif()
