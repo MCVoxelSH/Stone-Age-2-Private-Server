@@ -8,9 +8,15 @@ the english version (Open Beta from 2008) is probably available from here https:
 
 **How to use:**
 
-Copy the StoneAge2_Patched_V3.exe into the chinese version's install directory.
-Download the "sa2_probe_server.exe" from releases and run it (you might have to run it with the --mapdata and the location of the mapdata folder for maps to work, you can do this by creating a shortcut or via command line).
+Copy the StoneAge2_Patched_V3.exe into the chinese version's install directory.<br />
+
+Download the "sa2_probe_server.exe" from releases and run it (you might have to run it with the --mapdata and the location of the mapdata folder for maps to work, you can do this by creating a shortcut or via command line).<br />
+
 Run this command to launch Stone Age 2 and connect to the local server: ``"<path_to_sa2_exe>\StoneAge2_Patched_V3.exe" -a 127.0.0.1:13173:Local``
+
+------------------------------------------------------------------------------------------
+
+**Some more info:**
 
 You can overwrite files like namelist.bin, sa2gui_bin, and gui_text.tsv from the german (or english) version over the chinese files.
 
